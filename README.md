@@ -1,5 +1,5 @@
 # ECE2150J-SJTU-Global-College
-This is a public repository for course ECE2150J (Introduction to Circuits), with Prof. Yuljae Cho.
+This is a public repository for course 24Fall ECE2150J (Introduction to Circuits), with Prof. Yuljae Cho.
 
 ## Author Role
 Student (24 Fall), Teaching Assistant(25 Fall).
